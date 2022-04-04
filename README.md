@@ -1,7 +1,5 @@
 ### Olá! Eu sou o Vinicius Rocha.
 
-- 🔭 Fazendo bugs por ai
-- 🌱 Estudando JavaScript, HMTL e CSS
 <div align="center">
   <a href="https://github.com/ViniciuzRock">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciuzRock&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
