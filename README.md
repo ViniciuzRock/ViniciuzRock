@@ -8,7 +8,7 @@ Olá! Atualemnte trabalho com desenvolvimento web, utilizando technologias que a
   
 # Experiência:
  <div style="display: inline_block"><br>
-   > JavaScript, Node.js, React.js
+   ###- JavaScript, Node.js, React.js
    > HTML, CSS, Bootstrap
    > C#, ASP.NET
    > SQL Server, MySQL e MongoDB
