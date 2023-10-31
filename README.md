@@ -1,6 +1,6 @@
 
-# 💫 About Me:
-I'm currently working with web development<br>Coffee lover
+#Sobre mim:
+Olá! Atualemnte trabalho com desenvolvimento web, utilizando technologias que abragem tanto o front-end, como o back-end e banco de dados.
 
 
 ## 🌐 Socials:
